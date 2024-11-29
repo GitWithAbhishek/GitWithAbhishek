@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I can now 'talk' to machines, thanks to learning programming!**
 
-<h3 align="left">Let's Connect with me:</h3>
+<h3 align="left">Let's Connect With Me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abhishek-pandey-706239334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="GitWithAbhishek" height="30" width="40" /></a>
 </p>
