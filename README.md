@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **MySQL ,C++ ,Java ,C ,Python**
+- 💬 Ask me about **MySQL ,C++ ,Java ,C ,Python ,HTML**
 
 - 📫 How to reach me **www.linkedin.com/in/abhishek-pandey-706239334**
 
