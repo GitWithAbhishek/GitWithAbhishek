@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithabhipandey&label=Profile%20views&color=0e75b6&style=flat" alt="codewithabhipandey" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development **
 
 - 💬 Ask me about **MySQL , C++ ,Java ,C ,Python, HTML**
 
