@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif" style="width:2000px; height:400px;" alt="MasterHead">
+<img src="https://img.freepik.com/free-vector/night-office-room-interior-with-workplace-cartoon-background-empty-workspace-furniture-lamp-light-ray-evening-neon-cityscape-skyscraper-starry-sky-view-concept-from-building-window_107791-22811.jpg?semt=ais_items_boosted&w=740" style="width:2000px; height:300px;" alt="MasterHead">
 <h1 align="center">Hi 👋, I'm Abhishek Pandey</h1>
 <h3 align="center">A Passionate Aspiring Software Developer From India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
