@@ -1,4 +1,4 @@
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" style="width:2700px; height:270px;" alt="MasterHead">
+<img src="" style="width:2700px; height:270px;" alt="MasterHead">
 <h1 align="center">Hi 👋, I'm Abhishek Pandey</h1>
 <h3 align="center">A Passionate Aspiring Software Developer From India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
