@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/abhishek-pandey-706239334**
 
-- ⚡ Fun fact **I can now 'talk' to machines, thanks to learning programming !**
+- ⚡ Fun fact **I can now 'talk' to machines , thanks to learning programming !**
 
 <h3 align="left">Let's Connect With Me:</h3>
 <p align="left">
